@@ -1,0 +1,6 @@
+name = "callegg" # Tên của worker
+type = "javascript" # Hoặc "webpack" nếu bạn sử dụng Webpack
+
+account_id = "f7ebba8fba7956e00ad80e9827417687" # Tài khoản Cloudflare của bạn
+workers_dev = true # Nếu bạn muốn thử nghiệm trong môi trường phát triển
+compatibility_date = "2024-11-02" # Ngày tương thích
